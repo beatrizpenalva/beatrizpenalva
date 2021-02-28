@@ -7,13 +7,13 @@
 
 🎓 My diploma says that I am an Architect and Urban Designer
 
-📷 Instagram photographer
+📷 [Instagram](https://www.instagram.com/beatrizpenalva_/) photographer
 
-📖 Learning JavaScript, HTML5, CSS3, React.JS
+📖 Learning JavaScript, HTML5, CSS3, React.JS, Firebase, Git, Unitary tests
 
 💗 Favorite repository: [Ada Social Network](https://github.com/beatrizpenalva/ada-social-network)
 
-💌 Send me jobs
+💌 Send me <a href="mail to: biapenalva@gmail.com">jobs</a>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/beatrizpenalva/" alt="Linkedin">
