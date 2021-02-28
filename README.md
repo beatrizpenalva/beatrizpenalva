@@ -1,13 +1,18 @@
 ## What's up? I'm Beatriz Penalva :wave:
 
-[!michael](https://media4.giphy.com/media/ALNEAekQx2nv36kERv/giphy.gif?cid=ecf05e47wzwdtmevk3jiew80txqwsx9t692eyd5hyznccdoh&rid=giphy.gif)
+![michael](https://media4.giphy.com/media/ALNEAekQx2nv36kERv/giphy.gif?cid=ecf05e47wzwdtmevk3jiew80txqwsx9t692eyd5hyznccdoh&rid=giphy.gif)
 
 
 🚀 Future front-end developer by [Laboratoria](https://www.laboratoria.la/)
+
 🎓 My diploma says that I am an Architect and Urban Designer
+
 📷 Instagram photographer
+
 📖 Learning JavaScript, HTML5, CSS3, React.JS
+
 💗 Favorite repository: [Ada Social Netwokr](https://github.com/beatrizpenalva/ada-social-network)
+
 💌 Send me jobs
 
 <p align="left">
