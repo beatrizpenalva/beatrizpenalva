@@ -2,6 +2,7 @@
 
 <img align='right' src='https://i.giphy.com/media/f0sATHPZHuHAq2Wj34/giphy.gif/giphy.webp' width=350 frameBorder="0" ></img>
 
+
 🚀 Future front-end developer by [Laboratoria](https://www.laboratoria.la/)<br>
 
 🎓 Architect and Urban Planner<br>
