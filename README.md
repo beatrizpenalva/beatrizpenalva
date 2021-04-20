@@ -1,9 +1,6 @@
 ## What's up? I'm Beatriz 👋
 
 &nbsp;
-<img align='right' src='https://i.giphy.com/media/f0sATHPZHuHAq2Wj34/giphy.gif/giphy.webp' width=350 frameBorder="0" ></img>
-
-&nbsp;
 🚀 Future front-end developer by [Laboratoria](https://www.laboratoria.la/)<br>
 &nbsp;
 🎓 Architect and Urban Planner<br>
@@ -20,3 +17,6 @@ You can contact me on:
 💌 <a href="mailto:biapenalva@gmail.com"> Email </a> <br>
 &nbsp;
 💼 <a href="https://www.linkedin.com/in/beatrizpenalva/"> Linkedin </a> <br>
+
+&nbsp;
+<img align='right' src='https://i.giphy.com/media/f0sATHPZHuHAq2Wj34/giphy.gif/giphy.webp' width=350 frameBorder="0" ></img>
