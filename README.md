@@ -1,6 +1,6 @@
 ## What's up? I'm Beatriz 👋
 
-<img align='right' src='https://i.giphy.com/media/f0sATHPZHuHAq2Wj34/giphy.gif/giphy.webp' width=350 frameBorder="0" ></img>
+<img align='right' src='https://i.giphy.com/media/f0sATHPZHuHAq2Wj34/giphy.gif/giphy.webp' width=250 frameBorder="0" ></img>
 
 <p align="left">
   💻 Front-End Developer graduated from <a href="https://www.laboratoria.la/"> Laboratoria </a> <br>
