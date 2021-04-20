@@ -1,5 +1,7 @@
 ## What's up? I'm Beatriz 👋
 
+<img align='right' src='https://i.giphy.com/media/f0sATHPZHuHAq2Wj34/giphy.gif/giphy.webp' width=350 frameBorder="0" ></img>
+
 <p align="left">
   💻 Front-End Developer graduated from <a href="https://www.laboratoria.la/"> Laboratoria </a> <br>
   🎓 Architect and Urban Planner <br>
@@ -12,5 +14,3 @@
   💌 <a href="mailto:biapenalva@gmail.com"> Email </a> <br>
   💼 <a href="https://www.linkedin.com/in/beatrizpenalva/"> Linkedin </a> <br>  
 </p>
-
-<img align='right' src='https://i.giphy.com/media/f0sATHPZHuHAq2Wj34/giphy.gif/giphy.webp' width=350 frameBorder="0" ></img>
