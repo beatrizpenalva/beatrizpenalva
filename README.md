@@ -10,6 +10,6 @@
   
   You can contact me on:
   
-  💌 <a href="mailto:biapenalva@gmail.com"> Email </a> <br>
+  📫 <a href="mailto:biapenalva@gmail.com"> Email </a> <br>
   💼 <a href="https://www.linkedin.com/in/beatrizpenalva/"> Linkedin </a> <br>  
 </p>
