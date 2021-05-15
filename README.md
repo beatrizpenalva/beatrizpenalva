@@ -6,7 +6,7 @@
   📚 Learning React.JS, JavaScript, HTML5, CSS3 <br>
   🎓 Architect and Urban Planner <br>
   📷 <a href="https://www.instagram.com/beatrizpenalva_/"> Instagram </a> photographer <br>
-  💗 Favorite repository: <a href="https://github.com/beatrizpenalva/ada-social-network"> Ada Social Network </a> <br>
+  💗 Favorite repository: <a href="https://github.com/beatrizpenalva/burgerlicious"> Burgerlicious </a> <br>
   
   You can contact me on:
   
