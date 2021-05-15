@@ -1,7 +1,7 @@
 ## Hi, I'm Beatriz 👋
 
 <p align="left">
-  👩‍💻  I’m currently working on Bradesco Seguros
+  👩‍💻  I’m currently working on Bradesco Seguros <br>
   👩‍🎓 Front-End Developer graduated from <a href="https://www.laboratoria.la/"> Laboratoria </a> <br>
   📚 Learning React.JS, JavaScript, HTML5, CSS3 <br>
   🎓 Architect and Urban Planner <br>
