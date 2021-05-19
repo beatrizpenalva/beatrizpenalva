@@ -3,7 +3,7 @@
 <p align="left">
   👩‍💻  I’m currently working on Bradesco Seguros <br>
   👩‍🎓 Front-End Developer graduated from <a href="https://www.laboratoria.la/"> Laboratoria </a> <br>
-  📚 Learning React.JS, JavaScript, HTML5, CSS3 <br>
+  📚 Studying React.JS, JavaScript, HTML5, CSS3 <br>
   🎓 Architect and Urban Planner <br>
   📷 <a href="https://www.instagram.com/beatrizpenalva_/"> Instagram </a> photographer <br>
   💗 Favorite repository: <a href="https://github.com/beatrizpenalva/burgerlicious"> Burgerlicious </a> <br>
