@@ -4,7 +4,7 @@
   👩‍💻  I’m currently working on C6 Bank <br>
   👩‍🎓 Front-End Developer graduated from <a href="https://www.laboratoria.la/"> Laboratoria </a> <br>
   🎓 Architect and Urban Planner <br>
-  💗 Favorite repository: <a href="[https://github.com/beatrizpenalva/ada-social-network]">Ada Social Network </a> <br>
+  💗 Favorite repository: <a href="https://github.com/beatrizpenalva/ada-social-network">Ada Social Network </a> <br>
   
   You can contact me on:
   
